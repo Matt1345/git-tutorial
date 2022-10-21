@@ -1,1 +1,1 @@
-console.log('change.js version 3');
+console.log('change.js');
